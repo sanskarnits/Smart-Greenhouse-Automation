@@ -22,8 +22,9 @@ This project serves as a scalable foundation for advanced agricultural automatio
 
 ## 🔌 Circuit Diagram & Pin Mapping
 
-![Circuit Diagram](circuit_diagram.png)
-*(Note: Ensure the `circuit_diagram.png` file is uploaded to the root of your repository so this image displays correctly.)*
+![Circuit Diagram](circuit_diagram.jpeg)
+
+> **⚠️ Disclaimer:** The circuit diagram above is a conceptual visual representation. AI-generated visual schematics may not reflect 100% accurate pin-to-wire connections. For physical hardware assembly and exact wiring, please strictly follow the Pin Mapping table below.
 
 | Component | Arduino Pin |
 | :--- | :--- |
